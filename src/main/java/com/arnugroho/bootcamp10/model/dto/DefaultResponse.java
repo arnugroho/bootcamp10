@@ -1,4 +1,4 @@
-package com.arnugroho.bootcamp10.model;
+package com.arnugroho.bootcamp10.model.dto;
 
 public class DefaultResponse {
     private Boolean status;
